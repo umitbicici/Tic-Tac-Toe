@@ -10,13 +10,9 @@ Projeyi bilgisayarınızda çalıştırmak için Android Studio da yeni bir proj
 
 Bu uygulama java dilinde Android Studio kullanılarak yazılmıştır. Uygulamanın amacı aynı cihaz üzerinden iki kişinin xox oynamasıdır.
 
-### Ön Koşullar
-
-Yazılımı yüklemek için ne yapmanız gerekir ve nasıl yüklenir.
-
 ### Kurulum
 
-Uygulamayı yüklemek ve kurmak için gerekli dosyaları indirin ve visual studio da açın.
+Uygulamayı yüklemek ve kurmak için gerekli dosyaları indirin ve android studio da açın.
 
 ## Yazarlar
 
