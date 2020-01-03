@@ -4,7 +4,7 @@ Basit bir Tic Tac Toe Uygulamasıdır.
 
 ## Başlangıç
 
-Projeyi bilgisayarınızda çalıştırmak için veri tabanına ihtiyacınız var.
+Projeyi bilgisayarınızda çalıştırmak için Android Studio da yeni bir proje açın ve projedeki dosyaları kopyalayıp açtığınız projeye dahil edin.
 
 ### Uygulama Hakkında
 
